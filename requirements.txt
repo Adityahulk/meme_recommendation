@@ -1,0 +1,6 @@
+pickle-mixin
+opencv-python
+opencv-contrib-python
+os
+fastapi[all]
+
